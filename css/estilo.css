@@ -263,6 +263,16 @@ footer {
     margin-right: 0;
     margin-bottom: 12px;
   }
+    .jogosimersivos {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .jogosimersivos img {
+    width: 140px; 
+    margin-right: 0;
+    margin-bottom: 12px;
+  }
 }
 
 .logo-netflix { 
@@ -413,4 +423,5 @@ footer {
 .logo-alyx:hover{
   transform: scale(1.05);
   transition: transform 0.3s ease;
+
 } 
